@@ -1,0 +1,193 @@
+#EXTM3U
+
+#EXTINF:-1,▃ ▅ ▆ █ Türkce █ ▆ ▅ ▃
+
+#EXTINF:2700,Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:2650,Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,Show Turk
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+
+#EXTINF:60,CNN TURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:30,Halk TV (720p)
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1,Habertürk TV (720p)
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1,TV 100 (720p)
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1,KRT (720p)
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1,Haber Global
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#EXTINF:1800,NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1,TR: Fox HD
+http://expewty.online:2082/paulope/paulope/377021
+#EXTINF:2690,TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:60,BENGÜTÜRK TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:31,IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:2640,Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:787,Teve2 (1080p)
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:60,TRT 1 (1080p)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:30,TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:60,TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,▃ ▅ ▆ █ Deutsch █ ▆ ▅ ▃
+
+#EXTINF:-1,DE: DAS ERSTE HD
+http://expewty.online:2082/paulope/paulope/415144
+#EXTINF:-1,DE: ZDF HD
+http://expewty.online:2082/paulope/paulope/415147
+#EXTINF:-1,DE: NDR Hamburg
+http://expewty.online:2082/paulope/paulope/415215
+#EXTINF:-1,DE: Sat 1 HD
+http://expewty.online:2082/paulope/paulope/415174
+#EXTINF:-1,DE: RTL HD
+http://expewty.online:2082/paulope/paulope/415155
+#EXTINF:-1,DE: Pro 7 HD
+http://expewty.online:2082/paulope/paulope/415165
+#EXTINF:-1,DE: VOX HD
+http://expewty.online:2082/paulope/paulope/415181
+#EXTINF:-1,DE: RTL 2 HD
+http://expewty.online:2082/paulope/paulope/415159
+#EXTINF:-1,DE: Kabel 1 HD
+http://expewty.online:2082/paulope/paulope/415184
+
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://expewty.online:2082/paulope/paulope/415177
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://expewty.online:2082/paulope/paulope/415167
+#EXTINF:-1,DE: Kabel 1 Classics HD
+http://expewty.online:2082/paulope/paulope/415185
+#EXTINF:-1,DE: RTL NITRO HD
+http://expewty.online:2082/paulope/paulope/415188
+#EXTINF:-1,DE: TLC HD
+http://expewty.online:2082/paulope/paulope/415194
+#EXTINF:-1,DE: Sixx HD
+http://expewty.online:2082/paulope/paulope/415197
+#EXTINF:-1,DE: ANIXE HD
+http://expewty.online:2082/paulope/paulope/415198
+
+#EXTINF:-1,DE: Arte HD
+http://expewty.online:2082/paulope/paulope/415202
+#EXTINF:-1,DE: 3Sat HD
+http://expewty.online:2082/paulope/paulope/415207
+#EXTINF:-1,DE: MDR
+http://expewty.online:2082/paulope/paulope/415208
+#EXTINF:-1,DE: SWR HD
+http://expewty.online:2082/paulope/paulope/415211
+#EXTINF:-1,DE: rbb Brandenburg
+http://expewty.online:2082/paulope/paulope/415217
+#EXTINF:-1,DE: BR HD
+http://expewty.online:2082/paulope/paulope/415218
+#EXTINF:-1,DE: SR Fernsehen HD
+http://expewty.online:2082/paulope/paulope/415235
+#EXTINF:-1,DE: hr-fernsehen
+http://expewty.online:2082/paulope/paulope/415236
+#EXTINF:-1,DE: ARD-alpha HD
+http://expewty.online:2082/paulope/paulope/415239
+#EXTINF:-1,DE: WDR HD
+http://expewty.online:2082/paulope/paulope/415247
+#EXTINF:24,Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:24,Schlager Deluxe (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:30,SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:24,Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1,DE: DMAX HD
+http://expewty.online:2082/paulope/paulope/415429
+#EXTINF:-1,DE: Kabel Eins Doku HD
+http://expewty.online:2082/paulope/paulope/415434
+#EXTINF:-1,DE: N24 DOKU HD
+http://expewty.online:2082/paulope/paulope/415436
+#EXTINF:-1,DE: SERVUS TV HD
+http://expewty.online:2082/paulope/paulope/415221
+#EXTINF:-1,DE: Welt der Wunder
+http://expewty.online:2082/paulope/paulope/415437
+#EXTINF:-1,DE: ZDF INFO
+http://expewty.online:2082/paulope/paulope/415151#EXTINF:10798,ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:10798,ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1,DE: Die Sendung mit der Maus 24/7
+http://expewty.online:2082/paulope/paulope/415613
+
+#EXTINF:-1,DE: n-tv HD
+http://expewty.online:2082/paulope/paulope/415395
+#EXTINF:-1,DE: Welt HD
+http://expewty.online:2082/paulope/paulope/415400
+#EXTINF:-1,DE: PHOENIX HD
+http://expewty.online:2082/paulope/paulope/415402
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://expewty.online:2082/paulope/paulope/415407
+
+#EXTINF:-1,▃ ▅ ▆ █ Paid Sky █ ▆ ▅ ▃
+
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://expewty.online:2082/paulope/paulope/415468
+#EXTINF:-1,DE: Sky Cinema Classics
+http://expewty.online:2082/paulope/paulope/415486
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://expewty.online:2082/paulope/paulope/415470
+EXTINF:-1,DE: Sky Cinema Action HD
+http://expewty.online:2082/paulope/paulope/415472
+#EXTINF:-1,DE: Sky Cinema Best Of HD
+http://expewty.online:2082/paulope/paulope/415478
+#EXTINF:-1,DE: Sky Cinema Special HD
+http://expewty.online:2082/paulope/paulope/415480
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://expewty.online:2082/paulope/paulope/415487
+#EXTINF:-1,DE: Sky Atlantic HD
+http://expewty.online:2082/paulope/paulope/415489
+#EXTINF:-1,DE: Syfy HD
+http://expewty.online:2082/paulope/paulope/415509
+#EXTINF:-1,DE: Silverline
+http://expewty.online:2082/paulope/paulope/415513
+#EXTINF:-1,DE: Kinowelt Tv
+http://expewty.online:2082/paulope/paulope/415514
+#EXTINF:-1,Rakuten TV Drama Movies Austria (720p)
+https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+#EXTINF:-1,Rakuten TV Action Movies Austria (720p)
+https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
+#EXTINF:-1,DE: Discovery HD
+http://expewty.online:2082/paulope/paulope/415415
+#EXTINF:-1,DE: Sky Nature HD
+http://expewty.online:2082/paulope/paulope/415421
+#EXTINF:-1,DE: History HD
+http://expewty.online:2082/paulope/paulope/415427
+
+#EXTINF:-1,▃ ▅ ▆ █ Sport █ ▆ ▅ ▃
+
+#EXTINF:-1,DE: DAZN 1 HD
+http://expewty.online:2082/paulope/paulope/415263
+#EXTINF:-1,DE: DAZN 2 HD
+http://expewty.online:2082/paulope/paulope/415266
+#EXTINF:-1,DE: Sky Sport Top Event HD
+http://expewty.online:2082/paulope/paulope/415268
+#EXTINF:-1,DE: Sky Sport Premier League HD
+http://expewty.online:2082/paulope/paulope/415270
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://expewty.online:2082/paulope/paulope/415278
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://expewty.online:2082/paulope/paulope/415281
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://expewty.online:2082/paulope/paulope/415317
+
